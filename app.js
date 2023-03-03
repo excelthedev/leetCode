@@ -16,7 +16,3 @@ for (num = 0; num <= 100; num += 1) {
     console.log(num);
   }
 }
-
-//let's see if it actually works, i added a comment
-//two comments actually
-//try changing something here
